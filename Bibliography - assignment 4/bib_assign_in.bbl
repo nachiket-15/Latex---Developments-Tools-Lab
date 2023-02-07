@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{lahane2019review}
+P.~Lahane, J.~Jagtap, A.~Inamdar, N.~Karne, R.~Dev, A review of recent trends
+  in eeg based brain-computer interface, in: 2019 International Conference on
+  Computational Intelligence in Data Science (ICCIDS), IEEE, 2019, pp. 1--6.
+
+\end{thebibliography}
